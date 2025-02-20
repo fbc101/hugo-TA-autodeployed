@@ -1,2 +1,3 @@
 User-agent: *
-Disallow: /
+Disallow: /404.html
+Sitemap: https://fbc101.github.io/hugo-TA/sitemap.xml

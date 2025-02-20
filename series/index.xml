@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on Example TA 2</title>
-    <link>http://localhost:1313/hugo-TA/series/</link>
+    <link>https://fbc101.github.io/hugo-TA/series/</link>
     <description>Recent content in Series on Example TA 2</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Franci Branda-Chen</copyright>
-    <atom:link href="http://localhost:1313/hugo-TA/series/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://fbc101.github.io/hugo-TA/series/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
