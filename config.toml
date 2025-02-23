@@ -1,7 +1,7 @@
 author = "Franci Branda-Chen"
 baseURL = 'https://fbc101.github.io/hugo-TA/'
 copyright = "Franci Branda-Chen"
-title = "Example TA 2"
+title = "Example TA 3"
 
 timeZone = 'Europe/London'
 
@@ -10,7 +10,6 @@ defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
 
 theme = "hugo-bootstrap-theme"
-themesdir = 'node_modules/@filipecarneiro'
 
 disableHugoGeneratorInject = true
 enableRobotsTXT = true
